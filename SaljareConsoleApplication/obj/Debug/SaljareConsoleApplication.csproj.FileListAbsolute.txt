@@ -1,7 +1,0 @@
-C:\Users\colfil-4\source\repos\SaljareConsoleApplication\bin\Debug\SaljareConsoleApplication.exe.config
-C:\Users\colfil-4\source\repos\SaljareConsoleApplication\bin\Debug\SaljareConsoleApplication.exe
-C:\Users\colfil-4\source\repos\SaljareConsoleApplication\bin\Debug\SaljareConsoleApplication.pdb
-C:\Users\colfil-4\source\repos\SaljareConsoleApplication\obj\Debug\SaljareConsoleApplication.csproj.AssemblyReference.cache
-C:\Users\colfil-4\source\repos\SaljareConsoleApplication\obj\Debug\SaljareConsoleApplication.csproj.CoreCompileInputs.cache
-C:\Users\colfil-4\source\repos\SaljareConsoleApplication\obj\Debug\SaljareConsoleApplication.exe
-C:\Users\colfil-4\source\repos\SaljareConsoleApplication\obj\Debug\SaljareConsoleApplication.pdb
