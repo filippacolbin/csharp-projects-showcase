@@ -1,0 +1,10 @@
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\bin\Debug\VaxelRaknare1.exe.config
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\bin\Debug\VaxelRaknare1.exe
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\bin\Debug\VaxelRaknare1.pdb
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\obj\Debug\VaxelRaknare1.csproj.AssemblyReference.cache
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\obj\Debug\VaxelRaknare1.Form1.resources
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\obj\Debug\VaxelRaknare1.Properties.Resources.resources
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\obj\Debug\VaxelRaknare1.csproj.GenerateResource.cache
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\obj\Debug\VaxelRaknare1.csproj.CoreCompileInputs.cache
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\obj\Debug\VaxelRaknare1.exe
+C:\Users\colfil-4\source\repos\VaxelRaknare1\VaxelRaknare1\obj\Debug\VaxelRaknare1.pdb
