@@ -1,2 +1,2 @@
-# csharp-projects-showcase
-This repository contains multiple C# projects that I have developed as part of my coursework.
+# Filippa Colbin's Java Projects
+This repository contains Java projects from my studies, showcasing my programming skills.
