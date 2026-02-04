@@ -1,9 +1,0 @@
-C:\Users\colfil-4\source\repos\PersonApp\bin\Debug\PersonApp.exe.config
-C:\Users\colfil-4\source\repos\PersonApp\bin\Debug\PersonApp.exe
-C:\Users\colfil-4\source\repos\PersonApp\bin\Debug\PersonApp.pdb
-C:\Users\colfil-4\source\repos\PersonApp\obj\Debug\PersonApp.Form1.resources
-C:\Users\colfil-4\source\repos\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
-C:\Users\colfil-4\source\repos\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.cache
-C:\Users\colfil-4\source\repos\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
-C:\Users\colfil-4\source\repos\PersonApp\obj\Debug\PersonApp.exe
-C:\Users\colfil-4\source\repos\PersonApp\obj\Debug\PersonApp.pdb
