@@ -1,0 +1,8 @@
+Namn	Personnummer	Distrikt	Antal
+Filippa	573312	Luleå	40
+Hampu	473821	Stockholm	46
+2 säljare har nått nivå 1: under 50 artiklar
+
+Lovisa	278321	Lidköping	104
+1 säljare har nått nivå 3: 100-199 artiklar
+
