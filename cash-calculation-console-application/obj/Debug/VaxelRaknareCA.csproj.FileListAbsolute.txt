@@ -1,0 +1,7 @@
+C:\Users\colfil-4\source\repos\VaxelRaknareCA\VaxelRaknareCA\bin\Debug\VaxelRaknareCA.exe.config
+C:\Users\colfil-4\source\repos\VaxelRaknareCA\VaxelRaknareCA\bin\Debug\VaxelRaknareCA.exe
+C:\Users\colfil-4\source\repos\VaxelRaknareCA\VaxelRaknareCA\bin\Debug\VaxelRaknareCA.pdb
+C:\Users\colfil-4\source\repos\VaxelRaknareCA\VaxelRaknareCA\obj\Debug\VaxelRaknareCA.csproj.AssemblyReference.cache
+C:\Users\colfil-4\source\repos\VaxelRaknareCA\VaxelRaknareCA\obj\Debug\VaxelRaknareCA.csproj.CoreCompileInputs.cache
+C:\Users\colfil-4\source\repos\VaxelRaknareCA\VaxelRaknareCA\obj\Debug\VaxelRaknareCA.exe
+C:\Users\colfil-4\source\repos\VaxelRaknareCA\VaxelRaknareCA\obj\Debug\VaxelRaknareCA.pdb
